@@ -1,0 +1,19 @@
+{
+  "symbols": {
+    "iShares MSCI World Swap PEA UCITS ETF - EUR ACC": "EPA.WPEA",
+    "Amundi MSCI World Swap - UCITS ETF - EUR (D) DIS": "EPA.PLEM",
+    "TOTALENERGIES": "FP.PA",
+    "AIR LIQUIDE": "AI.PA",
+    "AXA": "CS.PA",
+    "SANOFI": "SAN.PA",
+    "DANONE": "BN.PA",
+    "L'OREAL": "OR.PA"
+  },
+  "types": {
+    "Achat Comptant": "Achat",
+    "Encaissement coupons intérêt/dividende": "Dividende",
+    "OST de création de coupons - Détachement coupon optionnel": "OST Coupon",
+    "ANNUL. OST de création de coupons - Détachement coupon optionnel": "OST Coupon",
+    "Indemnisation": "Indemnisation"
+  }
+}

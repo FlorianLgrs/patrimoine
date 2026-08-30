@@ -1,0 +1,5 @@
+HistoriqueOperationsBourse_*.csv
+opencode.json
+__pycache__/
+*.pyc
+.DS_Store
